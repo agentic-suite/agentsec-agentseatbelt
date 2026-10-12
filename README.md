@@ -2,7 +2,7 @@
 
 > **Block / limit** — Portable local enforcement for agent actions, macOS-first.
 
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/agentic-suite/agentseatbelt/badge)](https://scorecard.dev/viewer/?uri=github.com/agentic-suite/agentseatbelt)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/agentic-suite/agentsec-agentseatbelt/badge)](https://scorecard.dev/viewer/?uri=github.com/agentic-suite/agentsec-agentseatbelt)
 
 Part of the [agentic-suite](https://github.com/agentic-suite) — open-source,
 harness-agnostic security for AI agents.
